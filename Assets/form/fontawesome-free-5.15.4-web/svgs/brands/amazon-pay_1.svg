@@ -1,0 +1,222 @@
+; }
+
+.fa-face-frown-open::before {
+  content: "\f57a"; }
+
+.fa-frown-open::before {
+  content: "\f57a"; }
+
+.fa-face-grimace::before {
+  content: "\f57f"; }
+
+.fa-grimace::before {
+  content: "\f57f"; }
+
+.fa-face-grin::before {
+  content: "\f580"; }
+
+.fa-grin::before {
+  content: "\f580"; }
+
+.fa-face-grin-beam::before {
+  content: "\f582"; }
+
+.fa-grin-beam::before {
+  content: "\f582"; }
+
+.fa-face-grin-beam-sweat::before {
+  content: "\f583"; }
+
+.fa-grin-beam-sweat::before {
+  content: "\f583"; }
+
+.fa-face-grin-hearts::before {
+  content: "\f584"; }
+
+.fa-grin-hearts::before {
+  content: "\f584"; }
+
+.fa-face-grin-squint::before {
+  content: "\f585"; }
+
+.fa-grin-squint::before {
+  content: "\f585"; }
+
+.fa-face-grin-squint-tears::before {
+  content: "\f586"; }
+
+.fa-grin-squint-tears::before {
+  content: "\f586"; }
+
+.fa-face-grin-stars::before {
+  content: "\f587"; }
+
+.fa-grin-stars::before {
+  content: "\f587"; }
+
+.fa-face-grin-tears::before {
+  content: "\f588"; }
+
+.fa-grin-tears::before {
+  content: "\f588"; }
+
+.fa-face-grin-tongue::before {
+  content: "\f589"; }
+
+.fa-grin-tongue::before {
+  content: "\f589"; }
+
+.fa-face-grin-tongue-squint::before {
+  content: "\f58a"; }
+
+.fa-grin-tongue-squint::before {
+  content: "\f58a"; }
+
+.fa-face-grin-tongue-wink::before {
+  content: "\f58b"; }
+
+.fa-grin-tongue-wink::before {
+  content: "\f58b"; }
+
+.fa-face-grin-wide::before {
+  content: "\f581"; }
+
+.fa-grin-alt::before {
+  content: "\f581"; }
+
+.fa-face-grin-wink::before {
+  content: "\f58c"; }
+
+.fa-grin-wink::before {
+  content: "\f58c"; }
+
+.fa-face-kiss::before {
+  content: "\f596"; }
+
+.fa-kiss::before {
+  content: "\f596"; }
+
+.fa-face-kiss-beam::before {
+  content: "\f597"; }
+
+.fa-kiss-beam::before {
+  content: "\f597"; }
+
+.fa-face-kiss-wink-heart::before {
+  content: "\f598"; }
+
+.fa-kiss-wink-heart::before {
+  content: "\f598"; }
+
+.fa-face-laugh::before {
+  content: "\f599"; }
+
+.fa-laugh::before {
+  content: "\f599"; }
+
+.fa-face-laugh-beam::before {
+  content: "\f59a"; }
+
+.fa-laugh-beam::before {
+  content: "\f59a"; }
+
+.fa-face-laugh-squint::before {
+  content: "\f59b"; }
+
+.fa-laugh-squint::before {
+  content: "\f59b"; }
+
+.fa-face-laugh-wink::before {
+  content: "\f59c"; }
+
+.fa-laugh-wink::before {
+  content: "\f59c"; }
+
+.fa-face-meh::before {
+  content: "\f11a"; }
+
+.fa-meh::before {
+  content: "\f11a"; }
+
+.fa-face-meh-blank::before {
+  content: "\f5a4"; }
+
+.fa-meh-blank::before {
+  content: "\f5a4"; }
+
+.fa-face-rolling-eyes::before {
+  content: "\f5a5"; }
+
+.fa-meh-rolling-eyes::before {
+  content: "\f5a5"; }
+
+.fa-face-sad-cry::before {
+  content: "\f5b3"; }
+
+.fa-sad-cry::before {
+  content: "\f5b3"; }
+
+.fa-face-sad-tear::before {
+  content: "\f5b4"; }
+
+.fa-sad-tear::before {
+  content: "\f5b4"; }
+
+.fa-face-smile::before {
+  content: "\f118"; }
+
+.fa-smile::before {
+  content: "\f118"; }
+
+.fa-face-smile-beam::before {
+  content: "\f5b8"; }
+
+.fa-smile-beam::before {
+  content: "\f5b8"; }
+
+.fa-face-smile-wink::before {
+  content: "\f4da"; }
+
+.fa-smile-wink::before {
+  content: "\f4da"; }
+
+.fa-face-surprise::before {
+  content: "\f5c2"; }
+
+.fa-surprise::before {
+  content: "\f5c2"; }
+
+.fa-face-tired::before {
+  content: "\f5c8"; }
+
+.fa-tired::before {
+  content: "\f5c8"; }
+
+.fa-fan::before {
+  content: "\f863"; }
+
+.fa-faucet::before {
+  content: "\e005"; }
+
+.fa-fax::before {
+  content: "\f1ac"; }
+
+.fa-feather::before {
+  content: "\f52d"; }
+
+.fa-feather-pointed::before {
+  content: "\f56b"; }
+
+.fa-feather-alt::before {
+  content: "\f56b"; }
+
+.fa-file::before {
+  content: "\f15b"; }
+
+.fa-file-arrow-down::before {
+  content: "\f56d"; }
+
+.fa-file-download::before {
+  content: "\f56d"; }
+
+.fa-file-

@@ -1,0 +1,93 @@
+:before {
+  content: "\f82a"; }
+
+.fa-tree::before {
+  content: "\f1bb"; }
+
+.fa-triangle-exclamation::before {
+  content: "\f071"; }
+
+.fa-exclamation-triangle::before {
+  content: "\f071"; }
+
+.fa-warning::before {
+  content: "\f071"; }
+
+.fa-trophy::before {
+  content: "\f091"; }
+
+.fa-truck::before {
+  content: "\f0d1"; }
+
+.fa-truck-fast::before {
+  content: "\f48b"; }
+
+.fa-shipping-fast::before {
+  content: "\f48b"; }
+
+.fa-truck-medical::before {
+  content: "\f0f9"; }
+
+.fa-ambulance::before {
+  content: "\f0f9"; }
+
+.fa-truck-monster::before {
+  content: "\f63b"; }
+
+.fa-truck-moving::before {
+  content: "\f4df"; }
+
+.fa-truck-pickup::before {
+  content: "\f63c"; }
+
+.fa-truck-ramp-box::before {
+  content: "\f4de"; }
+
+.fa-truck-loading::before {
+  content: "\f4de"; }
+
+.fa-tty::before {
+  content: "\f1e4"; }
+
+.fa-teletype::before {
+  content: "\f1e4"; }
+
+.fa-turkish-lira-sign::before {
+  content: "\e2bb"; }
+
+.fa-try::before {
+  content: "\e2bb"; }
+
+.fa-turkish-lira::before {
+  content: "\e2bb"; }
+
+.fa-turn-down::before {
+  content: "\f3be"; }
+
+.fa-level-down-alt::before {
+  content: "\f3be"; }
+
+.fa-turn-up::before {
+  content: "\f3bf"; }
+
+.fa-level-up-alt::before {
+  content: "\f3bf"; }
+
+.fa-tv::before {
+  content: "\f26c"; }
+
+.fa-television::before {
+  content: "\f26c"; }
+
+.fa-tv-alt::before {
+  content: "\f26c"; }
+
+.fa-u::before {
+  content: "\55"; }
+
+.fa-umbrella::before {
+  content: "\f0e9"; }
+
+.fa-umbrella-beach::before {
+  content: "\f5ca"; }
+

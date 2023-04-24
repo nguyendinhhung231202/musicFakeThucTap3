@@ -1,0 +1,71 @@
+a-shuttle-van::before {
+  content: "\f5b6"; }
+
+.fa-vault::before {
+  content: "\e2c5"; }
+
+.fa-vector-square::before {
+  content: "\f5cb"; }
+
+.fa-venus::before {
+  content: "\f221"; }
+
+.fa-venus-double::before {
+  content: "\f226"; }
+
+.fa-venus-mars::before {
+  content: "\f228"; }
+
+.fa-vest::before {
+  content: "\e085"; }
+
+.fa-vest-patches::before {
+  content: "\e086"; }
+
+.fa-vial::before {
+  content: "\f492"; }
+
+.fa-vials::before {
+  content: "\f493"; }
+
+.fa-video::before {
+  content: "\f03d"; }
+
+.fa-video-camera::before {
+  content: "\f03d"; }
+
+.fa-video-slash::before {
+  content: "\f4e2"; }
+
+.fa-vihara::before {
+  content: "\f6a7"; }
+
+.fa-virus::before {
+  content: "\e074"; }
+
+.fa-virus-covid::before {
+  content: "\e4a8"; }
+
+.fa-virus-covid-slash::before {
+  content: "\e4a9"; }
+
+.fa-virus-slash::before {
+  content: "\e075"; }
+
+.fa-viruses::before {
+  content: "\e076"; }
+
+.fa-voicemail::before {
+  content: "\f897"; }
+
+.fa-volleyball::before {
+  content: "\f45f"; }
+
+.fa-volleyball-ball::before {
+  content: "\f45f"; }
+
+.fa-volume-high::before {
+  content: "\f028"; }
+
+.fa-volume-up::before {
+  conte

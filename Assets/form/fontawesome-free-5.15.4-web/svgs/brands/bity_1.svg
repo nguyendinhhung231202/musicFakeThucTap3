@@ -1,0 +1,55 @@
+tate-left::before {
+  content: "\f0e2"; }
+
+.fa-arrow-left-rotate::before {
+  content: "\f0e2"; }
+
+.fa-arrow-rotate-back::before {
+  content: "\f0e2"; }
+
+.fa-arrow-rotate-backward::before {
+  content: "\f0e2"; }
+
+.fa-undo::before {
+  content: "\f0e2"; }
+
+.fa-arrow-rotate-right::before {
+  content: "\f01e"; }
+
+.fa-arrow-right-rotate::before {
+  content: "\f01e"; }
+
+.fa-arrow-rotate-forward::before {
+  content: "\f01e"; }
+
+.fa-redo::before {
+  content: "\f01e"; }
+
+.fa-arrow-trend-down::before {
+  content: "\e097"; }
+
+.fa-arrow-trend-up::before {
+  content: "\e098"; }
+
+.fa-arrow-turn-down::before {
+  content: "\f149"; }
+
+.fa-level-down::before {
+  content: "\f149"; }
+
+.fa-arrow-turn-up::before {
+  content: "\f148"; }
+
+.fa-level-up::before {
+  content: "\f148"; }
+
+.fa-arrow-up::before {
+  content: "\f062"; }
+
+.fa-arrow-up-1-9::before {
+  content: "\f163"; }
+
+.fa-sort-numeric-up::before {
+  content: "\f163"; }
+
+.fa-arrow-up-9-1::be

@@ -1,0 +1,26 @@
+-circle: @fa-var-stop-circle;
+  circle-up: @fa-var-circle-up;
+  arrow-alt-circle-up: @fa-var-arrow-alt-circle-up;
+  circle-user: @fa-var-circle-user;
+  user-circle: @fa-var-user-circle;
+  circle-xmark: @fa-var-circle-xmark;
+  times-circle: @fa-var-times-circle;
+  xmark-circle: @fa-var-xmark-circle;
+  city: @fa-var-city;
+  clapperboard: @fa-var-clapperboard;
+  clipboard: @fa-var-clipboard;
+  clipboard-check: @fa-var-clipboard-check;
+  clipboard-list: @fa-var-clipboard-list;
+  clock: @fa-var-clock;
+  clock-four: @fa-var-clock-four;
+  clock-rotate-left: @fa-var-clock-rotate-left;
+  history: @fa-var-history;
+  clone: @fa-var-clone;
+  closed-captioning: @fa-var-closed-captioning;
+  cloud: @fa-var-cloud;
+  cloud-arrow-down: @fa-var-cloud-arrow-down;
+  cloud-download: @fa-var-cloud-download;
+  cloud-download-alt: @fa-var-cloud-download-alt;
+  cloud-arrow-up: @fa-var-cloud-arrow-up;
+  cloud-upload: @fa-var-cloud-upload;
+  clo

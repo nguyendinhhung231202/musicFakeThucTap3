@@ -1,0 +1,136 @@
+ent: "\f11c"; }
+
+.fa-khanda::before {
+  content: "\f66d"; }
+
+.fa-kip-sign::before {
+  content: "\e1c4"; }
+
+.fa-kit-medical::before {
+  content: "\f479"; }
+
+.fa-first-aid::before {
+  content: "\f479"; }
+
+.fa-kiwi-bird::before {
+  content: "\f535"; }
+
+.fa-l::before {
+  content: "\4c"; }
+
+.fa-landmark::before {
+  content: "\f66f"; }
+
+.fa-language::before {
+  content: "\f1ab"; }
+
+.fa-laptop::before {
+  content: "\f109"; }
+
+.fa-laptop-code::before {
+  content: "\f5fc"; }
+
+.fa-laptop-medical::before {
+  content: "\f812"; }
+
+.fa-lari-sign::before {
+  content: "\e1c8"; }
+
+.fa-layer-group::before {
+  content: "\f5fd"; }
+
+.fa-leaf::before {
+  content: "\f06c"; }
+
+.fa-left-long::before {
+  content: "\f30a"; }
+
+.fa-long-arrow-alt-left::before {
+  content: "\f30a"; }
+
+.fa-left-right::before {
+  content: "\f337"; }
+
+.fa-arrows-alt-h::before {
+  content: "\f337"; }
+
+.fa-lemon::before {
+  content: "\f094"; }
+
+.fa-less-than::before {
+  content: "\3c"; }
+
+.fa-less-than-equal::before {
+  content: "\f537"; }
+
+.fa-life-ring::before {
+  content: "\f1cd"; }
+
+.fa-lightbulb::before {
+  content: "\f0eb"; }
+
+.fa-link::before {
+  content: "\f0c1"; }
+
+.fa-chain::before {
+  content: "\f0c1"; }
+
+.fa-link-slash::before {
+  content: "\f127"; }
+
+.fa-chain-broken::before {
+  content: "\f127"; }
+
+.fa-chain-slash::before {
+  content: "\f127"; }
+
+.fa-unlink::before {
+  content: "\f127"; }
+
+.fa-lira-sign::before {
+  content: "\f195"; }
+
+.fa-list::before {
+  content: "\f03a"; }
+
+.fa-list-squares::before {
+  content: "\f03a"; }
+
+.fa-list-check::before {
+  content: "\f0ae"; }
+
+.fa-tasks::before {
+  content: "\f0ae"; }
+
+.fa-list-ol::before {
+  content: "\f0cb"; }
+
+.fa-list-1-2::before {
+  content: "\f0cb"; }
+
+.fa-list-numeric::before {
+  content: "\f0cb"; }
+
+.fa-list-ul::before {
+  content: "\f0ca"; }
+
+.fa-list-dots::before {
+  content: "\f0ca"; }
+
+.fa-litecoin-sign::before {
+  content: "\e1d3"; }
+
+.fa-location-arrow::before {
+  content: "\f124"; }
+
+.fa-location-crosshairs::before {
+  content: "\f601"; }
+
+.fa-location::before {
+  content: "\f601"; }
+
+.fa-location-dot::before {
+  content: "\f3c5"; }
+
+.fa-map-marker-alt::before {
+  conten

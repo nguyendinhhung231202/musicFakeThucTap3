@@ -1,0 +1,62 @@
+ {
+  content: "\f6a0"; }
+
+.fa-sd-card::before {
+  content: "\f7c2"; }
+
+.fa-section::before {
+  content: "\e447"; }
+
+.fa-seedling::before {
+  content: "\f4d8"; }
+
+.fa-sprout::before {
+  content: "\f4d8"; }
+
+.fa-server::before {
+  content: "\f233"; }
+
+.fa-shapes::before {
+  content: "\f61f"; }
+
+.fa-triangle-circle-square::before {
+  content: "\f61f"; }
+
+.fa-share::before {
+  content: "\f064"; }
+
+.fa-arrow-turn-right::before {
+  content: "\f064"; }
+
+.fa-mail-forward::before {
+  content: "\f064"; }
+
+.fa-share-from-square::before {
+  content: "\f14d"; }
+
+.fa-share-square::before {
+  content: "\f14d"; }
+
+.fa-share-nodes::before {
+  content: "\f1e0"; }
+
+.fa-share-alt::before {
+  content: "\f1e0"; }
+
+.fa-shekel-sign::before {
+  content: "\f20b"; }
+
+.fa-ils::before {
+  content: "\f20b"; }
+
+.fa-shekel::before {
+  content: "\f20b"; }
+
+.fa-sheqel::before {
+  content: "\f20b"; }
+
+.fa-sheqel-sign::before {
+  content: "\f20b"; }
+
+.fa-shield::before {
+  content

@@ -1,0 +1,191 @@
+e-caret-left::before {
+  content: "\f191"; }
+
+.fa-caret-square-left::before {
+  content: "\f191"; }
+
+.fa-square-caret-right::before {
+  content: "\f152"; }
+
+.fa-caret-square-right::before {
+  content: "\f152"; }
+
+.fa-square-caret-up::before {
+  content: "\f151"; }
+
+.fa-caret-square-up::before {
+  content: "\f151"; }
+
+.fa-square-check::before {
+  content: "\f14a"; }
+
+.fa-check-square::before {
+  content: "\f14a"; }
+
+.fa-square-envelope::before {
+  content: "\f199"; }
+
+.fa-envelope-square::before {
+  content: "\f199"; }
+
+.fa-square-full::before {
+  content: "\f45c"; }
+
+.fa-square-h::before {
+  content: "\f0fd"; }
+
+.fa-h-square::before {
+  content: "\f0fd"; }
+
+.fa-square-minus::before {
+  content: "\f146"; }
+
+.fa-minus-square::before {
+  content: "\f146"; }
+
+.fa-square-parking::before {
+  content: "\f540"; }
+
+.fa-parking::before {
+  content: "\f540"; }
+
+.fa-square-pen::before {
+  content: "\f14b"; }
+
+.fa-pen-square::before {
+  content: "\f14b"; }
+
+.fa-pencil-square::before {
+  content: "\f14b"; }
+
+.fa-square-phone::before {
+  content: "\f098"; }
+
+.fa-phone-square::before {
+  content: "\f098"; }
+
+.fa-square-phone-flip::before {
+  content: "\f87b"; }
+
+.fa-phone-square-alt::before {
+  content: "\f87b"; }
+
+.fa-square-plus::before {
+  content: "\f0fe"; }
+
+.fa-plus-square::before {
+  content: "\f0fe"; }
+
+.fa-square-poll-horizontal::before {
+  content: "\f682"; }
+
+.fa-poll-h::before {
+  content: "\f682"; }
+
+.fa-square-poll-vertical::before {
+  content: "\f681"; }
+
+.fa-poll::before {
+  content: "\f681"; }
+
+.fa-square-root-variable::before {
+  content: "\f698"; }
+
+.fa-square-root-alt::before {
+  content: "\f698"; }
+
+.fa-square-rss::before {
+  content: "\f143"; }
+
+.fa-rss-square::before {
+  content: "\f143"; }
+
+.fa-square-share-nodes::before {
+  content: "\f1e1"; }
+
+.fa-share-alt-square::before {
+  content: "\f1e1"; }
+
+.fa-square-up-right::before {
+  content: "\f360"; }
+
+.fa-external-link-square-alt::before {
+  content: "\f360"; }
+
+.fa-square-xmark::before {
+  content: "\f2d3"; }
+
+.fa-times-square::before {
+  content: "\f2d3"; }
+
+.fa-xmark-square::before {
+  content: "\f2d3"; }
+
+.fa-stairs::before {
+  content: "\e289"; }
+
+.fa-stamp::before {
+  content: "\f5bf"; }
+
+.fa-star::before {
+  content: "\f005"; }
+
+.fa-star-and-crescent::before {
+  content: "\f699"; }
+
+.fa-star-half::before {
+  content: "\f089"; }
+
+.fa-star-half-stroke::before {
+  content: "\f5c0"; }
+
+.fa-star-half-alt::before {
+  content: "\f5c0"; }
+
+.fa-star-of-david::before {
+  content: "\f69a"; }
+
+.fa-star-of-life::before {
+  content: "\f621"; }
+
+.fa-sterling-sign::before {
+  content: "\f154"; }
+
+.fa-gbp::before {
+  content: "\f154"; }
+
+.fa-pound-sign::before {
+  content: "\f154"; }
+
+.fa-stethoscope::before {
+  content: "\f0f1"; }
+
+.fa-stop::before {
+  content: "\f04d"; }
+
+.fa-stopwatch::before {
+  content: "\f2f2"; }
+
+.fa-stopwatch-20::before {
+  content: "\e06f"; }
+
+.fa-store::before {
+  content: "\f54e"; }
+
+.fa-store-slash::before {
+  content: "\e071"; }
+
+.fa-street-view::before {
+  content: "\f21d"; }
+
+.fa-strikethrough::before {
+  content: "\f0cc"; }
+
+.fa-stroopwafel::before {
+  content: "\f551"; }
+
+.fa-subscript::before {
+  content: "\f12c"; }
+
+.fa-suitcase::before {
+  content: "\f0f2"; }

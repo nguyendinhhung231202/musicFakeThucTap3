@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Assets/css/registerLogin.css">
+    <link rel="stylesheet" href="./Assets/css/base.css">
+    <title>Register</title>
+</head>
+<body>
+    <div class="main">
+
+        <form action="" method="POST" class="form" id="form-1">
+          <h3 class="heading">Thành viên đăng ký</h3>
+          <p class="desc">nhập đầy đủ thông tin bên dưới</p>
+      
+          <div class="spacer"></div>
+      
+          <div class="form-group">
+            <label for="fullname" class="form-label">Name</label>
+            <input id="fullname" name="fullname" type="text" placeholder="VD: Hùng Nguyễn" class="form-control">
+            <span class="form-message"></span>
+          </div>
+
+          <div class="form-group">
+            <label for="password" class="form-label">Password</label>
+            <input id="fullpassword" name="password" type="password" placeholder="Password" class="form-control">
+            <span class="form-message"></span>
+          </div>
+
+          <a href="./login.html" class="basicLetters">Login</a>
+          <div onclick="sigup()" class="form-submit">Đăng ký</div>
+        </form>
+      
+      </div>
+</body>
+<script  src="./Assets/js/registerLogin.js" ></script>
+<script src="./Assets/js/main.js"></script>
+<script src="./Assets/js/jsonSever.js"></script>
+<script>
+  // Ouput muốn nhận đc 
+  Validator({
+    form: '#form-1',
+    errorSelector: '.form-message',
+    rules: [
+      Validator.isRequired('#fullname'),
+      Validator.isEmail('#email'),
+      Validator.isPassword('#password', 6),
+      Validator.isRequired('#password_confirmation'),
+      Validator.isConfirmed('#password_confirmation', function() {
+        return document.querySelector('#form-1 #password').value;
+      },'Mật khẩu nhập lại không chính xác'),
+    ]
+      
+  }); 
+
+</script>
+</html>

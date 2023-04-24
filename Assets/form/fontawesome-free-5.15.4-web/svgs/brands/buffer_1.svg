@@ -1,0 +1,54 @@
+; }
+
+.fa-face-frown-open::before {
+  content: "\f57a"; }
+
+.fa-frown-open::before {
+  content: "\f57a"; }
+
+.fa-face-grimace::before {
+  content: "\f57f"; }
+
+.fa-grimace::before {
+  content: "\f57f"; }
+
+.fa-face-grin::before {
+  content: "\f580"; }
+
+.fa-grin::before {
+  content: "\f580"; }
+
+.fa-face-grin-beam::before {
+  content: "\f582"; }
+
+.fa-grin-beam::before {
+  content: "\f582"; }
+
+.fa-face-grin-beam-sweat::before {
+  content: "\f583"; }
+
+.fa-grin-beam-sweat::before {
+  content: "\f583"; }
+
+.fa-face-grin-hearts::before {
+  content: "\f584"; }
+
+.fa-grin-hearts::before {
+  content: "\f584"; }
+
+.fa-face-grin-squint::before {
+  content: "\f585"; }
+
+.fa-grin-squint::before {
+  content: "\f585"; }
+
+.fa-face-grin-squint-tears::before {
+  content: "\f586"; }
+
+.fa-grin-squint-tears::before {
+  content: "\f586"; }
+
+.fa-face-grin-stars::before {
+  content: "\f587"; }
+
+.fa-grin-stars::before {

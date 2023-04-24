@@ -1,0 +1,68 @@
+ {
+  content: "\f79c"; }
+
+.fa-glasses::before {
+  content: "\f530"; }
+
+.fa-globe::before {
+  content: "\f0ac"; }
+
+.fa-golf-ball-tee::before {
+  content: "\f450"; }
+
+.fa-golf-ball::before {
+  content: "\f450"; }
+
+.fa-gopuram::before {
+  content: "\f664"; }
+
+.fa-graduation-cap::before {
+  content: "\f19d"; }
+
+.fa-mortar-board::before {
+  content: "\f19d"; }
+
+.fa-greater-than::before {
+  content: "\3e"; }
+
+.fa-greater-than-equal::before {
+  content: "\f532"; }
+
+.fa-grip::before {
+  content: "\f58d"; }
+
+.fa-grip-horizontal::before {
+  content: "\f58d"; }
+
+.fa-grip-lines::before {
+  content: "\f7a4"; }
+
+.fa-grip-lines-vertical::before {
+  content: "\f7a5"; }
+
+.fa-grip-vertical::before {
+  content: "\f58e"; }
+
+.fa-guarani-sign::before {
+  content: "\e19a"; }
+
+.fa-guitar::before {
+  content: "\f7a6"; }
+
+.fa-gun::before {
+  content: "\e19b"; }
+
+.fa-h::before {
+  content: "\48"; }
+
+.fa-hammer::before {
+  content: "\f6e3"; }
+
+.fa-hamsa::before {
+  content: "\f665"; }
+
+.fa-hand::before {
+  content: "\f256"; }
+
+.fa-hand-paper::before {
+  cont

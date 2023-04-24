@@ -1,0 +1,81 @@
+{
+  "courses": [
+    {
+      "name": "v-pop: the a-list ",
+      "singer": "Zing MP3",
+      "image": "./Assets/img/playlists/playlist1.jpg"
+    },
+    {
+      "name": "Những bản hit hay nhất của Sơn Tùng và Những Bản Hit Của Rap Việt",
+      "singer": "Zing MP3",
+      "image": "./Assets/img/playlists/playlist2.jpg"
+    },
+    {
+      "name": "v-pop: the a-list",
+      "singer": "Zing MP3",
+      "image": "./Assets/img/playlists/playlist3.jpg"
+    },
+    {
+      "name": "Những bản hit của Rap Việt",
+      "singer": "Bigcityboi",
+      "image": "./Assets/img/playlists/playlist4.jpg"
+    },
+    {
+      "name": "Thủ Đô Cypher",
+      "singer": "RPT Orijinn, LOW G, RZM",
+      "image": "./Assets/img/music/listSong4/song5.jpg"
+    },
+    {
+      "name": "v-pop: the a-list",
+      "singer": "Zing MP3",
+      "image": "./Assets/img/playlists/playlist6.jpg"
+    },
+    {
+      "name": "Người Chơi Hệ Đẹp",
+      "singer": "16 Typh",
+      "image": "./Assets/img/playlists/playlist7.jpg"
+    },
+    {
+      "name": "Ghé Qua",
+      "singer": "Dick , PC, Tofu",
+      "image": "./Assets/img/music/listSong4/song8.jpg"
+    },
+    {
+      "name": "Đìu Anh Luôn Giữ Kín Trong Tym",
+      "singer": "RPT MCK, Tlinh, 2pillz",
+      "image": "./Assets/img/music/listSong4/song9.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "hung",
+      "password": "123456A"
+    },
+    {
+      "id": "2",
+      "username": "huy",
+      "password": "123456A"
+    },
+    {
+      "username": "nguyenHung",
+      "passwords": "123456A",
+      "id": "ERILWkt"
+    },
+    {
+      "username": "nguyenHung",
+      "passwords": "123456A",
+      "id": "Jv1iqWY"
+    },
+    {
+      "username": "nguyenHung",
+      "passwords": "123456A",
+      "id": "Jv1iqWY"
+    },
+    {
+      "username": "huy",
+      "passwords": "1234567A",
+      "id": "xmOF11b"
+    }
+  ]
+}

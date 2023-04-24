@@ -1,0 +1,115 @@
+45d"; }
+
+.fa-ping-pong-paddle-ball::before {
+  content: "\f45d"; }
+
+.fa-table-tennis::before {
+  content: "\f45d"; }
+
+.fa-tablet::before {
+  content: "\f3fb"; }
+
+.fa-tablet-android::before {
+  content: "\f3fb"; }
+
+.fa-tablet-button::before {
+  content: "\f10a"; }
+
+.fa-tablet-screen-button::before {
+  content: "\f3fa"; }
+
+.fa-tablet-alt::before {
+  content: "\f3fa"; }
+
+.fa-tablets::before {
+  content: "\f490"; }
+
+.fa-tachograph-digital::before {
+  content: "\f566"; }
+
+.fa-digital-tachograph::before {
+  content: "\f566"; }
+
+.fa-tag::before {
+  content: "\f02b"; }
+
+.fa-tags::before {
+  content: "\f02c"; }
+
+.fa-tape::before {
+  content: "\f4db"; }
+
+.fa-taxi::before {
+  content: "\f1ba"; }
+
+.fa-cab::before {
+  content: "\f1ba"; }
+
+.fa-teeth::before {
+  content: "\f62e"; }
+
+.fa-teeth-open::before {
+  content: "\f62f"; }
+
+.fa-temperature-empty::before {
+  content: "\f2cb"; }
+
+.fa-temperature-0::before {
+  content: "\f2cb"; }
+
+.fa-thermometer-0::before {
+  content: "\f2cb"; }
+
+.fa-thermometer-empty::before {
+  content: "\f2cb"; }
+
+.fa-temperature-full::before {
+  content: "\f2c7"; }
+
+.fa-temperature-4::before {
+  content: "\f2c7"; }
+
+.fa-thermometer-4::before {
+  content: "\f2c7"; }
+
+.fa-thermometer-full::before {
+  content: "\f2c7"; }
+
+.fa-temperature-half::before {
+  content: "\f2c9"; }
+
+.fa-temperature-2::before {
+  content: "\f2c9"; }
+
+.fa-thermometer-2::before {
+  content: "\f2c9"; }
+
+.fa-thermometer-half::before {
+  content: "\f2c9"; }
+
+.fa-temperature-high::before {
+  content: "\f769"; }
+
+.fa-temperature-low::before {
+  content: "\f76b"; }
+
+.fa-temperature-quarter::before {
+  content: "\f2ca"; }
+
+.fa-temperature-1::before {
+  content: "\f2ca"; }
+
+.fa-thermometer-1::before {
+  content: "\f2ca"; }
+
+.fa-thermometer-quarter::before {
+  content: "\f2ca"; }
+
+.fa-temperature-three-quarters::before {
+  content: "\f2c8"; }
+
+.fa-temperature-3::before {
+  content: "\f2c8"; }
+
+.fa-thermometer-3::before {
+  content: "\f2c8

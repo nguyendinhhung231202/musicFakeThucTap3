@@ -1,0 +1,58 @@
+ }
+
+.fa-glass-martini::before {
+  content: "\f000"; }
+
+.fa-mask::before {
+  content: "\f6fa"; }
+
+.fa-mask-face::before {
+  content: "\e1d7"; }
+
+.fa-masks-theater::before {
+  content: "\f630"; }
+
+.fa-theater-masks::before {
+  content: "\f630"; }
+
+.fa-maximize::before {
+  content: "\f31e"; }
+
+.fa-expand-arrows-alt::before {
+  content: "\f31e"; }
+
+.fa-medal::before {
+  content: "\f5a2"; }
+
+.fa-memory::before {
+  content: "\f538"; }
+
+.fa-menorah::before {
+  content: "\f676"; }
+
+.fa-mercury::before {
+  content: "\f223"; }
+
+.fa-message::before {
+  content: "\f27a"; }
+
+.fa-comment-alt::before {
+  content: "\f27a"; }
+
+.fa-meteor::before {
+  content: "\f753"; }
+
+.fa-microchip::before {
+  content: "\f2db"; }
+
+.fa-microphone::before {
+  content: "\f130"; }
+
+.fa-microphone-lines::before {
+  content: "\f3c9"; }
+
+.fa-microphone-alt::before {
+  content: "\f3c9"; }
+
+.fa-microphone-lines-slash::before {
+  cont

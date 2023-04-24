@@ -1,0 +1,48 @@
+45d"; }
+
+.fa-ping-pong-paddle-ball::before {
+  content: "\f45d"; }
+
+.fa-table-tennis::before {
+  content: "\f45d"; }
+
+.fa-tablet::before {
+  content: "\f3fb"; }
+
+.fa-tablet-android::before {
+  content: "\f3fb"; }
+
+.fa-tablet-button::before {
+  content: "\f10a"; }
+
+.fa-tablet-screen-button::before {
+  content: "\f3fa"; }
+
+.fa-tablet-alt::before {
+  content: "\f3fa"; }
+
+.fa-tablets::before {
+  content: "\f490"; }
+
+.fa-tachograph-digital::before {
+  content: "\f566"; }
+
+.fa-digital-tachograph::before {
+  content: "\f566"; }
+
+.fa-tag::before {
+  content: "\f02b"; }
+
+.fa-tags::before {
+  content: "\f02c"; }
+
+.fa-tape::before {
+  content: "\f4db"; }
+
+.fa-taxi::before {
+  content: "\f1ba"; }
+
+.fa-cab::before {
+  content: "\f1ba"; }
+
+.fa-teeth::before 

@@ -1,0 +1,46 @@
+:before {
+  content: "\f82a"; }
+
+.fa-tree::before {
+  content: "\f1bb"; }
+
+.fa-triangle-exclamation::before {
+  content: "\f071"; }
+
+.fa-exclamation-triangle::before {
+  content: "\f071"; }
+
+.fa-warning::before {
+  content: "\f071"; }
+
+.fa-trophy::before {
+  content: "\f091"; }
+
+.fa-truck::before {
+  content: "\f0d1"; }
+
+.fa-truck-fast::before {
+  content: "\f48b"; }
+
+.fa-shipping-fast::before {
+  content: "\f48b"; }
+
+.fa-truck-medical::before {
+  content: "\f0f9"; }
+
+.fa-ambulance::before {
+  content: "\f0f9"; }
+
+.fa-truck-monster::before {
+  content: "\f63b"; }
+
+.fa-truck-moving::before {
+  content: "\f4df"; }
+
+.fa-truck-pickup::before {
+  content: "\f63c"; }
+
+.fa-truck-ramp-box::before {
+  content: "\f4de"; }
+
+.fa-truck-loading::before {

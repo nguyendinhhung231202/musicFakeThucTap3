@@ -1,0 +1,80 @@
+ess-board::before {
+  content: "\f43c"; }
+
+.fa-chess-king::before {
+  content: "\f43f"; }
+
+.fa-chess-knight::before {
+  content: "\f441"; }
+
+.fa-chess-pawn::before {
+  content: "\f443"; }
+
+.fa-chess-queen::before {
+  content: "\f445"; }
+
+.fa-chess-rook::before {
+  content: "\f447"; }
+
+.fa-chevron-down::before {
+  content: "\f078"; }
+
+.fa-chevron-left::before {
+  content: "\f053"; }
+
+.fa-chevron-right::before {
+  content: "\f054"; }
+
+.fa-chevron-up::before {
+  content: "\f077"; }
+
+.fa-child::before {
+  content: "\f1ae"; }
+
+.fa-church::before {
+  content: "\f51d"; }
+
+.fa-circle::before {
+  content: "\f111"; }
+
+.fa-circle-arrow-down::before {
+  content: "\f0ab"; }
+
+.fa-arrow-circle-down::before {
+  content: "\f0ab"; }
+
+.fa-circle-arrow-left::before {
+  content: "\f0a8"; }
+
+.fa-arrow-circle-left::before {
+  content: "\f0a8"; }
+
+.fa-circle-arrow-right::before {
+  content: "\f0a9"; }
+
+.fa-arrow-circle-right::before {
+  content: "\f0a9"; }
+
+.fa-circle-arrow-up::before {
+  content: "\f0aa"; }
+
+.fa-arrow-circle-up::before {
+  content: "\f0aa"; }
+
+.fa-circle-check::before {
+  content: "\f058"; }
+
+.fa-check-circle::before {
+  content: "\f058"; }
+
+.fa-circle-chevron-down::before {
+  content: "\f13a"; }
+
+.fa-chevron-circle-down::before {
+  content: "\f13a"; }
+
+.fa-circle-chevron-left::before {
+  content: "\f137"; }
+
+.fa-chevron-circle-left::before {
+  content: "\f137"; 

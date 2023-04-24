@@ -1,0 +1,737 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: inherit; /*inherit: kế thừa từ thẻ chứa nó */
+}
+
+/* dùng chung */
+:root {
+    --black-color: #000;
+    --border-box: rgba(255, 255, 255, 0.2);
+    --border-primary: rgba(255, 255, 255, 0.1);
+    --layout-bg: #170f23;
+    --main-box-shadow: rgba(66, 66, 66, 0.4);
+    --modal-scrollbar: rgba(41, 21, 71, 0.8);
+
+    --player-bg: rgba(0, 0, 0, 0.2);
+    --sidebar-bg: #411465;
+    
+    --text-item-hover: #fff;
+    --sidebar-height: calc(100% - var(--player-height));
+    --offset-x-second: calc(0px - ((230px - (230px * var(--scale-rate-second))) / 2 + 20px));
+    --offset-x-third: calc(0px - ((230px - (230px * var(--scale-rate-third))) / 2 + 40px));
+    --scale-rate-second: calc(196 / 230);
+    --scale-rate-third: calc(162 / 230);
+
+
+    --bg-color: #37075d;
+    --player-height: 90px;
+    --white-color: #fff;
+    --text-color: #e8e3ed;
+    --text2-color: #999;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --header-width: calc(100% - 240px);
+    --header-height: 70px;
+    --header-bg: #37075d;
+    --extra-bg: #542c75;
+    --bg-content-color: rgba(255, 255, 255, 0.3);
+    --primary-bg: #6a39af;
+    --purple-primary: #ed2b91;
+    --bland-white-color:#a98dd1;
+    --bland-white-color:#8864ba;
+    --bland-text: #dadada;
+    --menu-bg: #81639a;
+    --link-text-hover: #fe63da;
+    --bg-sidebar-tablet: #ffffff1a;
+    --tab-active-color: rgba(255, 255, 255, 0.3);
+
+    /* tablet */
+    --sidebar-popup-bg: #572f90;
+
+
+}
+
+html {
+    /* scroll "hành động cuộn " behavior "hành vi khy quộn" bấm vào band .. sẽ chạy chậm đến đúng phần của nó  */
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%; /* tính ra rem --> 1 rem = 10px */
+    /* căn giữa chiều cao của chữ là 16px */
+    line-height: 1.6rem;
+    box-sizing: border-box;
+}
+
+.none {
+    display: none !important;
+}
+
+.basicLetters {
+    display: flex;
+    font-size: 16px;
+    justify-content: right;
+    cursor: pointer;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    color: var(--purple-primary);
+}
+
+.coating.open {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.action-hover-rgba:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.purple-primary-color:hover {
+    color: var(--purple-primary);
+}
+
+.purple-primary-bd:hover {
+    border: 1px solid var(--purple-primary);
+}
+
+
+
+/* top no-wrap: content ko xuống hàng */
+
+.no-wrap {
+    display: flex;
+    scroll-behavior: smooth;
+    /* flex-wra tự động nhảy xuống hàng nowrap ko nhảy xuống dòng */
+    flex-wrap: nowrap !important;
+    will-change: scroll-position;
+    overflow: overlay hidden !important;
+}
+
+.no-wrap::-webkit-scrollbar {
+    display: none;
+}
+
+/* .no-wrap:hover::-webkit-scrollbar {
+    display: inline-block;
+    height: 4px;
+}
+
+.no-wrap::-webkit-scrollbar-track {
+    border-radius: 50%;
+}
+
+.no-wrap::-webkit-scrollbar-thumb {
+    background-color: #888;
+}
+
+.no-wrap::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+} */
+
+/* end no-wrap: content ko xuống hàng */
+
+/* top img  mx*/
+.img-padding-top {
+    padding-top: 56% !important;
+}
+/* end img  */
+
+/* Flex */
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.text-underline:hover {
+    text-decoration: underline;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row !important;
+}
+
+.flex-comlumn{
+    display: flex;
+    flex-direction: column !important;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+
+/* top thẻ button */
+
+.button {
+    border: none;
+    outline: none;
+    /* display: flex; */
+    cursor: pointer;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    align-items: center;
+    border-radius: 100px;
+    text-decoration: none;
+    justify-content: center;
+    text-transform: uppercase;
+    color: var(--text-color);
+    background-color: var(--bg-content-color);
+    -webkit-tap-highlight-color: transparent;
+}
+
+.button i {
+    font-size: 1.8rem;
+}
+
+.button.is-medium {
+    font-size: 1.4rem;
+    padding: 9px 24px;
+}
+
+.button.is-small {
+    line-height: 1.2rem;
+    font-size: 1.2rem;
+    height: 27px;
+    padding: 6px 19px;
+}
+
+.button.is-small:hover {
+    animation: growth ease 0.4s
+}
+
+.button.button-gold {
+    color: #39383b;
+    background-color: #f8e71c;
+    color: var(--black-color);
+}
+
+.button.button-primary {
+    background-color: var(--purple-primary);
+    color: var(--white-color);
+}
+
+.button--disabled {
+    opacity: 0.3 !important;
+    cursor: default !important;
+    user-select: none !important;
+}
+
+.button__menu {
+    background-color: var(--menu-bg);
+}
+
+/* end thẻ button */
+
+
+/* top btn + icon  */
+
+.purple-primary {
+    color: var(--purple-primary) ;
+}
+
+.action-btn .btn--icon {
+    height: 18px;
+    padding-top: 1px;
+    font-size: 1.8rem;
+    text-align: center;
+    line-height: 1.8rem;
+    display: inline-block;
+}
+
+.control-btn {
+    height: 32px;
+    min-width: 32px;
+    padding: 3px;
+    margin: 0 7px;
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 2.4rem;
+    border-radius: 50%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.action-btn-boder-m {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid var(--white-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-btn-boder {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid var(--white-color);
+}
+
+.action-btn {  
+    /* width: 32px;
+    height: 32px; */
+    border-radius: 50%;
+}
+
+.action-btn:hover {
+    background-color: var(--bg-content-color);
+}
+
+.action-btn-l-l {  
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-btn-l-l:hover {  
+    background-color: var(--bg-content-color) !important;
+}
+
+.btn-icon-m {
+    font-size: 1.6rem;
+    display: inline-block;
+    color: var(--white-color); 
+}
+
+.btn-icon {
+    font-size: 1.8rem;
+    display: inline-block;
+    color: var(--white-color); 
+}
+.btn-icon.heart-red {
+    color: var(--purple-primary) !important;
+}
+
+.btn-icon-l {
+    font-size: 1.8rem;
+    display: inline-block;
+    color: var(--white-color);  
+}
+
+.btn-icon-l-l {
+    font-size: 3rem;
+    display: inline-block;
+    color: var(--white-color);
+}
+
+.icon-header {
+    font-size: 2.2rem;
+    cursor: pointer;
+    color: var(--text-color);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+/* end btn + icon  */
+
+/* top text info  */
+.info-name {
+    font-size: 1.4rem;
+    line-height: 2rem;
+    text-decoration: none;
+    color:var(--white-color);
+    text-transform: capitalize;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+.info-name-player {
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    text-decoration: none;
+    color:var(--white-color);
+    text-transform: capitalize;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+.info-name:hover {
+    color: var(--link-text-hover);
+}
+
+.info-creator {
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    color:var(--text-secondary);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+/* MV */
+.info-name-mv {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    text-decoration: none;
+    color:var(--white-color);
+    text-transform: capitalize;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+.info-name-mv:hover {
+    color: var(--link-text-hover);
+    cursor: pointer;
+}
+
+.info-creator-mv {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    color:var(--text-secondary);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+.info-creator-mv:hover {
+    color: var(--link-text-hover);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+/* end text info  */
+
+
+/* Common variables */
+
+.height-auto {
+    height: auto !important;
+}
+
+.mr-8 {
+    margin-right: 8px !important;
+}
+
+.mr-10 {
+    margin-right: 10px !important;
+}
+
+.mr-40 {
+    margin-right: 40px !important;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mb-15 {
+    margin-bottom: 15px !important;
+}
+
+.mb-16 {
+    margin-bottom: 16px !important;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+
+.mb-50 {
+    margin-bottom: 50px !important;
+}
+
+
+.mt-5 {
+    margin-top: 5px !important;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.mt-30 {
+    margin-top: 30px !important;
+}
+
+.mt-40 {
+    margin-top: 40px !important;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.pt-4 {
+    padding-top: 4px !important;
+}
+
+.pt-8 {
+    padding-top: 8px !important;
+}
+
+.pt-12 {
+    padding-top: 12px !important;
+}
+
+.pt-16 {
+    padding-top: 16px !important;
+}
+
+
+.br-5 {
+    border-radius: 5px !important;
+}
+
+.br-100 {
+    border-radius: 100% !important;
+}
+
+.f-sz-18 {
+    font-size: 1.8rem !important;
+    ;
+}
+
+.lh-27 {
+    line-height: 2.7rem !important;
+}
+
+.is-rounded {
+    border-radius: 999px !important;
+}
+
+
+
+/* Animation*/
+/* @keyframes : nhìn thấy đc chuyển động  */
+@keyframes fadeIn{
+    /* kiểu hện dần lên */
+    from {
+        transform: scale(0);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes hederNotifyGrowth {
+    /* kiểu lớp dần lên  */
+    from {
+        opacity: 0; /*  hiện mờ đần dần  */
+        transform: scale(0); /*  hiện dần lên   */
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes growth {
+    from {
+        transform: translatey(-500px);
+        opacity: 0;
+        /* transform: scale(var(--growth-form)); */
+    }
+    to {
+        transform: translatey(0);
+        opacity: 1;
+        /* transform: scale(var(--growth-to)); */
+    }
+}
+
+@keyframes row {
+    from{
+        transform: scale(1);
+        opacity: 0.4;
+    }
+    to{
+        transform: scale(3);
+        opacity: 0;
+    }
+}
+
+@keyframes to-up {
+    from{
+        transform: scale(1.2);
+        opacity: 0.4;
+    }
+    to{
+        transform: scale(1.8);
+        opacity: 0;
+    }
+}
+
+@keyframes row_2 {
+    from{
+        transform: scale(1.5);
+        opacity: 0.4;
+    }
+    to{
+        transform: scale(1);
+        opacity: 0;
+    }
+}
+
+@keyframes sizeImg {
+    from{
+        background-size: 100%;
+    }
+    to{
+        background-size: calc(100% + 60px);
+    }
+}
+
+@keyframes twirl {
+    0%{
+        transform:rotate(0);
+    }
+    100%{
+        /* 180 độ */
+        transform:rotate(360deg); 
+    }
+}
+
+
+/* thu fnsenfjndndsnvskdnvksnvlknslknvlksnmvlkm */
+@keyframes growth {
+    from {
+        /*tỷ lệ ( to dần lên )*/
+        transform: scale(0.8);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+
+@-webkit-keyframes mymove {
+    from {
+        top: -900px;
+    }
+
+    to {
+        top: 300px;
+    }
+}
+
+@-webkit-keyframes mymoveProduct {
+    from {
+        top:  200px;
+        opacity: 0;
+    }
+
+    to {
+        top:  0;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes from_under_up {
+    from {
+        top:  800px;
+        opacity: 0;
+    }
+
+    to {
+        top:  0;
+        opacity: 1;
+    }
+}
+
+@keyframes example {
+    0% {
+        border: 2px solid #ccc; 
+        transform: scale(1);
+    }
+    100% {
+        border: 1px solid rgba(255, 255, 255, 0.3);  
+        transform: scale(1.5);
+    }
+}
+
+@keyframes exampleActive {
+    0%{
+        transform:rotate(0);
+    }
+    100%{
+        transform: rotate(20deg);
+    }
+    
+}
+
+@keyframes twirl {
+    0%{
+        opacity: 0;
+        /* dộ (quay 360độ ) */
+        transform:rotate(0);
+    }
+    100%{
+        opacity: 1;
+        transform: rotate(360deg);
+    }
+    
+}
+
+@keyframes turnX {
+    0%{
+        opacity: 0;
+        /* dộ (quay 360độ ) */
+        transform:rotatex(180deg);
+    }
+    100%{
+        opacity: 1;
+        transform: rotatex(0);
+    }
+    
+}
+
+@keyframes turn {
+    0%{
+        opacity: 0;
+        /* dộ (quay chiều y ) */
+        transform:rotateY(-180deg);
+    }
+    100%{
+        opacity: 1;
+        transform: rotatey(0);
+    }
+    
+}

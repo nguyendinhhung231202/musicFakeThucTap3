@@ -1,0 +1,93 @@
+ }
+
+.fa-glass-martini::before {
+  content: "\f000"; }
+
+.fa-mask::before {
+  content: "\f6fa"; }
+
+.fa-mask-face::before {
+  content: "\e1d7"; }
+
+.fa-masks-theater::before {
+  content: "\f630"; }
+
+.fa-theater-masks::before {
+  content: "\f630"; }
+
+.fa-maximize::before {
+  content: "\f31e"; }
+
+.fa-expand-arrows-alt::before {
+  content: "\f31e"; }
+
+.fa-medal::before {
+  content: "\f5a2"; }
+
+.fa-memory::before {
+  content: "\f538"; }
+
+.fa-menorah::before {
+  content: "\f676"; }
+
+.fa-mercury::before {
+  content: "\f223"; }
+
+.fa-message::before {
+  content: "\f27a"; }
+
+.fa-comment-alt::before {
+  content: "\f27a"; }
+
+.fa-meteor::before {
+  content: "\f753"; }
+
+.fa-microchip::before {
+  content: "\f2db"; }
+
+.fa-microphone::before {
+  content: "\f130"; }
+
+.fa-microphone-lines::before {
+  content: "\f3c9"; }
+
+.fa-microphone-alt::before {
+  content: "\f3c9"; }
+
+.fa-microphone-lines-slash::before {
+  content: "\f539"; }
+
+.fa-microphone-alt-slash::before {
+  content: "\f539"; }
+
+.fa-microphone-slash::before {
+  content: "\f131"; }
+
+.fa-microscope::before {
+  content: "\f610"; }
+
+.fa-mill-sign::before {
+  content: "\e1ed"; }
+
+.fa-minimize::before {
+  content: "\f78c"; }
+
+.fa-compress-arrows-alt::before {
+  content: "\f78c"; }
+
+.fa-minus::before {
+  content: "\f068"; }
+
+.fa-subtract::before {
+  content: "\f068"; }
+
+.fa-mitten::before {
+  content: "\f7b5"; }
+
+.fa-mobile::before {
+  content: "\f3ce"; }
+
+.fa-mobile-android::before {
+  content: "\f3ce"; }
+
+.fa

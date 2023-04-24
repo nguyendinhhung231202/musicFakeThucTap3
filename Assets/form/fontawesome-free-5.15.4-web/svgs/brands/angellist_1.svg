@@ -1,0 +1,98 @@
+e {
+  content: "\f58f"; }
+
+.fa-headset::before {
+  content: "\f590"; }
+
+.fa-heart::before {
+  content: "\f004"; }
+
+.fa-heart-crack::before {
+  content: "\f7a9"; }
+
+.fa-heart-broken::before {
+  content: "\f7a9"; }
+
+.fa-heart-pulse::before {
+  content: "\f21e"; }
+
+.fa-heartbeat::before {
+  content: "\f21e"; }
+
+.fa-helicopter::before {
+  content: "\f533"; }
+
+.fa-helmet-safety::before {
+  content: "\f807"; }
+
+.fa-hard-hat::before {
+  content: "\f807"; }
+
+.fa-hat-hard::before {
+  content: "\f807"; }
+
+.fa-highlighter::before {
+  content: "\f591"; }
+
+.fa-hippo::before {
+  content: "\f6ed"; }
+
+.fa-hockey-puck::before {
+  content: "\f453"; }
+
+.fa-holly-berry::before {
+  content: "\f7aa"; }
+
+.fa-horse::before {
+  content: "\f6f0"; }
+
+.fa-horse-head::before {
+  content: "\f7ab"; }
+
+.fa-hospital::before {
+  content: "\f0f8"; }
+
+.fa-hospital-alt::before {
+  content: "\f0f8"; }
+
+.fa-hospital-wide::before {
+  content: "\f0f8"; }
+
+.fa-hospital-user::before {
+  content: "\f80d"; }
+
+.fa-hot-tub-person::before {
+  content: "\f593"; }
+
+.fa-hot-tub::before {
+  content: "\f593"; }
+
+.fa-hotdog::before {
+  content: "\f80f"; }
+
+.fa-hotel::before {
+  content: "\f594"; }
+
+.fa-hourglass::before {
+  content: "\f254"; }
+
+.fa-hourglass-2::before {
+  content: "\f254"; }
+
+.fa-hourglass-half::before {
+  content: "\f254"; }
+
+.fa-hourglass-empty::before {
+  content: "\f252"; }
+
+.fa-hourglass-end::before {
+  content: "\f253"; }
+
+.fa-hourglass-3::before {
+  content: "\f253"; }
+
+.fa-hourglass-start::before {
+  content: "\f251"; }
+
+.fa-hourglass-1::before {
+  content: "\f251"

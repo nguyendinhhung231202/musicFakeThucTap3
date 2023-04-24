@@ -1,0 +1,55 @@
+age::before {
+  content: "\f1c5"; }
+
+.fa-file-import::before {
+  content: "\f56f"; }
+
+.fa-arrow-right-to-file::before {
+  content: "\f56f"; }
+
+.fa-file-invoice::before {
+  content: "\f570"; }
+
+.fa-file-invoice-dollar::before {
+  content: "\f571"; }
+
+.fa-file-lines::before {
+  content: "\f15c"; }
+
+.fa-file-alt::before {
+  content: "\f15c"; }
+
+.fa-file-text::before {
+  content: "\f15c"; }
+
+.fa-file-medical::before {
+  content: "\f477"; }
+
+.fa-file-pdf::before {
+  content: "\f1c1"; }
+
+.fa-file-powerpoint::before {
+  content: "\f1c4"; }
+
+.fa-file-prescription::before {
+  content: "\f572"; }
+
+.fa-file-signature::before {
+  content: "\f573"; }
+
+.fa-file-video::before {
+  content: "\f1c8"; }
+
+.fa-file-waveform::before {
+  content: "\f478"; }
+
+.fa-file-medical-alt::before {
+  content: "\f478"; }
+
+.fa-file-word::before {
+  content: "\f1c2"; }
+
+.fa-file-zipper::before {
+  content: "\f1c6"; }
+
+.fa-

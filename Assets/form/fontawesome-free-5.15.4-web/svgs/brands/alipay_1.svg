@@ -1,0 +1,61 @@
+::before {
+  content: "\f528"; }
+
+.fa-disease::before {
+  content: "\f7fa"; }
+
+.fa-divide::before {
+  content: "\f529"; }
+
+.fa-dna::before {
+  content: "\f471"; }
+
+.fa-dog::before {
+  content: "\f6d3"; }
+
+.fa-dollar-sign::before {
+  content: "\24"; }
+
+.fa-dollar::before {
+  content: "\24"; }
+
+.fa-usd::before {
+  content: "\24"; }
+
+.fa-dolly::before {
+  content: "\f472"; }
+
+.fa-dolly-box::before {
+  content: "\f472"; }
+
+.fa-dong-sign::before {
+  content: "\e169"; }
+
+.fa-door-closed::before {
+  content: "\f52a"; }
+
+.fa-door-open::before {
+  content: "\f52b"; }
+
+.fa-dove::before {
+  content: "\f4ba"; }
+
+.fa-down-left-and-up-right-to-center::before {
+  content: "\f422"; }
+
+.fa-compress-alt::before {
+  content: "\f422"; }
+
+.fa-down-long::before {
+  content: "\f309"; }
+
+.fa-long-arrow-alt-down::before {
+  content: "\f309"; }
+
+.fa-download::before {
+  content: "\f019"; }
+
+.fa-dragon::before {
+  content: "\f6d5"; }
+
+.fa

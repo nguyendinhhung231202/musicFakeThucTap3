@@ -1,0 +1,23 @@
+ss-minus;
+  search-minus: @fa-var-search-minus;
+  magnifying-glass-plus: @fa-var-magnifying-glass-plus;
+  search-plus: @fa-var-search-plus;
+  manat-sign: @fa-var-manat-sign;
+  map: @fa-var-map;
+  map-location: @fa-var-map-location;
+  map-marked: @fa-var-map-marked;
+  map-location-dot: @fa-var-map-location-dot;
+  map-marked-alt: @fa-var-map-marked-alt;
+  map-pin: @fa-var-map-pin;
+  marker: @fa-var-marker;
+  mars: @fa-var-mars;
+  mars-and-venus: @fa-var-mars-and-venus;
+  mars-double: @fa-var-mars-double;
+  mars-stroke: @fa-var-mars-stroke;
+  mars-stroke-right: @fa-var-mars-stroke-right;
+  mars-stroke-h: @fa-var-mars-stroke-h;
+  mars-stroke-up: @fa-var-mars-stroke-up;
+  mars-stroke-v: @fa-var-mars-stroke-v;
+  martini-glass: @fa-var-martini-glass;
+  glass-martini-alt: @fa-var-glass-martini-alt;
+  martini-glass-citrus: 

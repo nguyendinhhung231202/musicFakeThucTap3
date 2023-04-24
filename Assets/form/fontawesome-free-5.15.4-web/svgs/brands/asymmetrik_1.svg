@@ -1,0 +1,56 @@
+e-caret-left::before {
+  content: "\f191"; }
+
+.fa-caret-square-left::before {
+  content: "\f191"; }
+
+.fa-square-caret-right::before {
+  content: "\f152"; }
+
+.fa-caret-square-right::before {
+  content: "\f152"; }
+
+.fa-square-caret-up::before {
+  content: "\f151"; }
+
+.fa-caret-square-up::before {
+  content: "\f151"; }
+
+.fa-square-check::before {
+  content: "\f14a"; }
+
+.fa-check-square::before {
+  content: "\f14a"; }
+
+.fa-square-envelope::before {
+  content: "\f199"; }
+
+.fa-envelope-square::before {
+  content: "\f199"; }
+
+.fa-square-full::before {
+  content: "\f45c"; }
+
+.fa-square-h::before {
+  content: "\f0fd"; }
+
+.fa-h-square::before {
+  content: "\f0fd"; }
+
+.fa-square-minus::before {
+  content: "\f146"; }
+
+.fa-minus-square::before {
+  content: "\f146"; }
+
+.fa-square-parking::before {
+  content: "\f540"; }
+
+.fa-parking::before {
+  content: "\f540"; }
+
+.fa-square-pen::before {
+  content: "\f14b"; }
+
+.fa-pen-square::before {
+  conten

@@ -1,0 +1,91 @@
+{
+  content: "\e06b"; }
+
+.fa-puzzle-piece::before {
+  content: "\f12e"; }
+
+.fa-q::before {
+  content: "\51"; }
+
+.fa-qrcode::before {
+  content: "\f029"; }
+
+.fa-question::before {
+  content: "\3f"; }
+
+.fa-quote-left::before {
+  content: "\f10d"; }
+
+.fa-quote-left-alt::before {
+  content: "\f10d"; }
+
+.fa-quote-right::before {
+  content: "\f10e"; }
+
+.fa-quote-right-alt::before {
+  content: "\f10e"; }
+
+.fa-r::before {
+  content: "\52"; }
+
+.fa-radiation::before {
+  content: "\f7b9"; }
+
+.fa-rainbow::before {
+  content: "\f75b"; }
+
+.fa-receipt::before {
+  content: "\f543"; }
+
+.fa-record-vinyl::before {
+  content: "\f8d9"; }
+
+.fa-rectangle-ad::before {
+  content: "\f641"; }
+
+.fa-ad::before {
+  content: "\f641"; }
+
+.fa-rectangle-list::before {
+  content: "\f022"; }
+
+.fa-list-alt::before {
+  content: "\f022"; }
+
+.fa-rectangle-xmark::before {
+  content: "\f410"; }
+
+.fa-rectangle-times::before {
+  content: "\f410"; }
+
+.fa-times-rectangle::before {
+  content: "\f410"; }
+
+.fa-window-close::before {
+  content: "\f410"; }
+
+.fa-recycle::before {
+  content: "\f1b8"; }
+
+.fa-registered::before {
+  content: "\f25d"; }
+
+.fa-repeat::before {
+  content: "\f363"; }
+
+.fa-reply::before {
+  content: "\f3e5"; }
+
+.fa-mail-reply::before {
+  content: "\f3e5"; }
+
+.fa-reply-all::before {
+  content: "\f122"; }
+
+.fa-mail-reply-all::before {
+  content: "\f122"; }
+
+.fa-republican::before {
+  content: "\f75e"; }
+
+.fa-restroom::befor

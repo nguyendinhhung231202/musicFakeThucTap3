@@ -1,0 +1,55 @@
+f291"; }
+
+.fa-basketball::before {
+  content: "\f434"; }
+
+.fa-basketball-ball::before {
+  content: "\f434"; }
+
+.fa-bath::before {
+  content: "\f2cd"; }
+
+.fa-bathtub::before {
+  content: "\f2cd"; }
+
+.fa-battery-empty::before {
+  content: "\f244"; }
+
+.fa-battery-0::before {
+  content: "\f244"; }
+
+.fa-battery-full::before {
+  content: "\f240"; }
+
+.fa-battery::before {
+  content: "\f240"; }
+
+.fa-battery-5::before {
+  content: "\f240"; }
+
+.fa-battery-half::before {
+  content: "\f242"; }
+
+.fa-battery-3::before {
+  content: "\f242"; }
+
+.fa-battery-quarter::before {
+  content: "\f243"; }
+
+.fa-battery-2::before {
+  content: "\f243"; }
+
+.fa-battery-three-quarters::before {
+  content: "\f241"; }
+
+.fa-battery-4::before {
+  content: "\f241"; }
+
+.fa-bed::before {
+  content: "\f236"; }
+
+.fa-bed-pulse::before {
+  content: "\f487"; }
+
+.fa-procedures::before {
+ 

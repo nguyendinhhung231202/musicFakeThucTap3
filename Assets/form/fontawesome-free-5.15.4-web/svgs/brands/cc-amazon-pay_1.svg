@@ -1,0 +1,226 @@
+e {
+  content: "\f58f"; }
+
+.fa-headset::before {
+  content: "\f590"; }
+
+.fa-heart::before {
+  content: "\f004"; }
+
+.fa-heart-crack::before {
+  content: "\f7a9"; }
+
+.fa-heart-broken::before {
+  content: "\f7a9"; }
+
+.fa-heart-pulse::before {
+  content: "\f21e"; }
+
+.fa-heartbeat::before {
+  content: "\f21e"; }
+
+.fa-helicopter::before {
+  content: "\f533"; }
+
+.fa-helmet-safety::before {
+  content: "\f807"; }
+
+.fa-hard-hat::before {
+  content: "\f807"; }
+
+.fa-hat-hard::before {
+  content: "\f807"; }
+
+.fa-highlighter::before {
+  content: "\f591"; }
+
+.fa-hippo::before {
+  content: "\f6ed"; }
+
+.fa-hockey-puck::before {
+  content: "\f453"; }
+
+.fa-holly-berry::before {
+  content: "\f7aa"; }
+
+.fa-horse::before {
+  content: "\f6f0"; }
+
+.fa-horse-head::before {
+  content: "\f7ab"; }
+
+.fa-hospital::before {
+  content: "\f0f8"; }
+
+.fa-hospital-alt::before {
+  content: "\f0f8"; }
+
+.fa-hospital-wide::before {
+  content: "\f0f8"; }
+
+.fa-hospital-user::before {
+  content: "\f80d"; }
+
+.fa-hot-tub-person::before {
+  content: "\f593"; }
+
+.fa-hot-tub::before {
+  content: "\f593"; }
+
+.fa-hotdog::before {
+  content: "\f80f"; }
+
+.fa-hotel::before {
+  content: "\f594"; }
+
+.fa-hourglass::before {
+  content: "\f254"; }
+
+.fa-hourglass-2::before {
+  content: "\f254"; }
+
+.fa-hourglass-half::before {
+  content: "\f254"; }
+
+.fa-hourglass-empty::before {
+  content: "\f252"; }
+
+.fa-hourglass-end::before {
+  content: "\f253"; }
+
+.fa-hourglass-3::before {
+  content: "\f253"; }
+
+.fa-hourglass-start::before {
+  content: "\f251"; }
+
+.fa-hourglass-1::before {
+  content: "\f251"; }
+
+.fa-house::before {
+  content: "\f015"; }
+
+.fa-home::before {
+  content: "\f015"; }
+
+.fa-home-alt::before {
+  content: "\f015"; }
+
+.fa-home-lg-alt::before {
+  content: "\f015"; }
+
+.fa-house-chimney::before {
+  content: "\e3af"; }
+
+.fa-home-lg::before {
+  content: "\e3af"; }
+
+.fa-house-chimney-crack::before {
+  content: "\f6f1"; }
+
+.fa-house-damage::before {
+  content: "\f6f1"; }
+
+.fa-house-chimney-medical::before {
+  content: "\f7f2"; }
+
+.fa-clinic-medical::before {
+  content: "\f7f2"; }
+
+.fa-house-chimney-user::before {
+  content: "\e065"; }
+
+.fa-house-chimney-window::before {
+  content: "\e00d"; }
+
+.fa-house-crack::before {
+  content: "\e3b1"; }
+
+.fa-house-laptop::before {
+  content: "\e066"; }
+
+.fa-laptop-house::before {
+  content: "\e066"; }
+
+.fa-house-medical::before {
+  content: "\e3b2"; }
+
+.fa-house-user::before {
+  content: "\e1b0"; }
+
+.fa-home-user::before {
+  content: "\e1b0"; }
+
+.fa-hryvnia-sign::before {
+  content: "\f6f2"; }
+
+.fa-hryvnia::before {
+  content: "\f6f2"; }
+
+.fa-i::before {
+  content: "\49"; }
+
+.fa-i-cursor::before {
+  content: "\f246"; }
+
+.fa-ice-cream::before {
+  content: "\f810"; }
+
+.fa-icicles::before {
+  content: "\f7ad"; }
+
+.fa-icons::before {
+  content: "\f86d"; }
+
+.fa-heart-music-camera-bolt::before {
+  content: "\f86d"; }
+
+.fa-id-badge::before {
+  content: "\f2c1"; }
+
+.fa-id-card::before {
+  content: "\f2c2"; }
+
+.fa-drivers-license::before {
+  content: "\f2c2"; }
+
+.fa-id-card-clip::before {
+  content: "\f47f"; }
+
+.fa-id-card-alt::before {
+  content: "\f47f"; }
+
+.fa-igloo::before {
+  content: "\f7ae"; }
+
+.fa-image::before {
+  content: "\f03e"; }
+
+.fa-image-portrait::before {
+  content: "\f3e0"; }
+
+.fa-portrait::before {
+  content: "\f3e0"; }
+
+.fa-images::before {
+  content: "\f302"; }
+
+.fa-inbox::before {
+  content: "\f01c"; }
+
+.fa-indent::before {
+  content: "\f03c"; }
+
+.fa-indian-rupee-sign::before {
+  content: "\e1bc"; }
+
+.fa-indian-rupee::before {
+  content: "\e1bc"; }
+
+.fa-inr::before {
+  content: "\e1bc"; }
+
+.fa-industry::before {
+  content: "\f275"; }
+
+.fa-infinity::

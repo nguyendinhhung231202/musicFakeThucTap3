@@ -1,0 +1,26 @@
+: @fa-var-road;
+  robot: @fa-var-robot;
+  rocket: @fa-var-rocket;
+  rotate: @fa-var-rotate;
+  sync-alt: @fa-var-sync-alt;
+  rotate-left: @fa-var-rotate-left;
+  rotate-back: @fa-var-rotate-back;
+  rotate-backward: @fa-var-rotate-backward;
+  undo-alt: @fa-var-undo-alt;
+  rotate-right: @fa-var-rotate-right;
+  redo-alt: @fa-var-redo-alt;
+  rotate-forward: @fa-var-rotate-forward;
+  route: @fa-var-route;
+  rss: @fa-var-rss;
+  feed: @fa-var-feed;
+  ruble-sign: @fa-var-ruble-sign;
+  rouble: @fa-var-rouble;
+  rub: @fa-var-rub;
+  ruble: @fa-var-ruble;
+  ruler: @fa-var-ruler;
+  ruler-combined: @fa-var-ruler-combined;
+  ruler-horizontal: @fa-var-ruler-horizontal;
+  ruler-vertical: @fa-var-ruler-vertical;
+  rupee-sign: @fa-var-rupee-sign;
+  rupee: @fa-var-rupee;
+  rupiah-sign
