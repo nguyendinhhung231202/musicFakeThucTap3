@@ -33,7 +33,7 @@
     position: absolute;
 } */
 .open {
-    display: flex !important;
+    display: block !important;
 }
 
 .block {
